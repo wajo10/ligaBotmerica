@@ -1,0 +1,118 @@
+<data>
+    <fecha>0</fecha>
+    <equipo nombre="lda">
+        <puntos>0</puntos>
+        <golFavor>0</golFavor>
+        <golContra>0</golContra>
+        <golDiferencia>0</golDiferencia>
+	<derrotas>0</derrotas>
+    </equipo>
+    <equipo nombre="saprissa">
+        <puntos>0</puntos>
+        <golFavor>0</golFavor>
+        <golContra>0</golContra>
+        <golDiferencia>0</golDiferencia>
+	<derrotas>0</derrotas>
+    </equipo>
+    <equipo nombre="csh">
+        <puntos>0</puntos>
+        <golFavor>0</golFavor>
+        <golContra>0</golContra>
+        <golDiferencia>0</golDiferencia>
+	<derrotas>0</derrotas>
+    </equipo>
+    <equipo nombre="csc">
+        <puntos>0</puntos>
+        <golFavor>0</golFavor>
+        <golContra>0</golContra>
+        <golDiferencia>0</golDiferencia>
+	<derrotas>0</derrotas>
+    </equipo>
+    <equipo nombre="pz">
+        <puntos>0</puntos>
+        <golFavor>0</golFavor>
+        <golContra>0</golContra>
+        <golDiferencia>0</golDiferencia>
+	<derrotas>0</derrotas>
+    </equipo>
+    <equipo nombre="sc">
+        <puntos>0</puntos>
+        <golFavor>0</golFavor>
+        <golContra>0</golContra>
+        <golDiferencia>0</golDiferencia>
+	<derrotas>0</derrotas>
+    </equipo>
+    <equipo nombre="ucr">
+        <puntos>0</puntos>
+        <golFavor>0</golFavor>
+        <golContra>0</golContra>
+        <golDiferencia>0</golDiferencia>
+	<derrotas>0</derrotas>
+    </equipo>
+    <equipo nombre="guadalupe">
+        <puntos>0</puntos>
+        <golFavor>0</golFavor>
+        <golContra>0</golContra>
+        <golDiferencia>0</golDiferencia>
+	<derrotas>0</derrotas>
+    </equipo>
+    <equipo nombre="santos">
+        <puntos>0</puntos>
+        <golFavor>0</golFavor>
+        <golContra>0</golContra>
+        <golDiferencia>0</golDiferencia>
+	<derrotas>0</derrotas>
+    </equipo>
+   <equipo nombre="limon">
+        <puntos>0</puntos>
+        <golFavor>0</golFavor>
+        <golContra>0</golContra>
+        <golDiferencia>0</golDiferencia>
+	<derrotas>0</derrotas>
+    </equipo>
+    <equipo nombre="jicaral">
+        <puntos>0</puntos>
+        <golFavor>0</golFavor>
+        <golContra>0</golContra>
+        <golDiferencia>0</golDiferencia>
+	<derrotas>0</derrotas>
+    </equipo>
+    <equipo nombre="grecia">
+        <puntos>0</puntos>
+        <golFavor>0</golFavor>
+        <golContra>0</golContra>
+        <golDiferencia>0</golDiferencia>
+	<derrotas>0</derrotas>
+    </equipo>
+    <semis Serie="1">
+	<equipo1>""</equipo1>
+	<equipo2>""</equipo2>
+	<goles1>0</goles1>
+	<goles2>0</goles2>
+	<partido>0</partido>
+    </semis>
+    <semis Serie="2">
+	<equipo1>""</equipo1>
+	<equipo2>""</equipo2>
+	<goles1>0</goles1>
+	<goles2>0</goles2>
+	<partido>0</partido>
+    </semis>
+    <finales Serie="finales">
+	<equipo1>""</equipo1>
+	<equipo2>""</equipo2>
+	<goles1>0</goles1>
+	<goles2>0</goles2>
+	<partido>0</partido>
+    </finales>
+    <granFinal Serie="granFinal">
+	<equipo1>""</equipo1>
+	<equipo2>""</equipo2>
+	<goles1>0</goles1>
+	<goles2>0</goles2>
+	<partido>0</partido>
+    </granFinal>
+    <campeonRegular>""</campeonRegular>
+    <campeonLiguilla>""</campeonLiguilla>
+    <campeonTotal>""</campeonTotal>
+</data>
